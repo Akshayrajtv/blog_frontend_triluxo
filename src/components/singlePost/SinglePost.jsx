@@ -72,13 +72,13 @@ const SinglePost = () => {
                     </div>
                     <div className="card mt-3">
                         <div className="card-body">
-                            <h5 className="card-title">Rajan TV</h5>
+                            <h6 className="">Rajan TV</h6>
                             <p className="card-text">This is a comment.</p>
                         </div>
                     </div>
                     <div className="card mt-3">
                         <div className="card-body">
-                            <h5 className="card-title">Vishnu C</h5>
+                            <h6 className="">Vishnu C</h6>
                             <p className="card-text">
                                 This is another comment.
                             </p>
